@@ -2,8 +2,10 @@
 
 Inspired by [rockmagicnet](https://github.com/rockmagic)'s work for Sencha Cmd. See [DockerHub](https://hub.docker.com/r/rockmagicnet/sencha-cmd) or [Github](https://github.com/rockmagic/sencha-cmd).
 
+Naming convention : ```<JDK_VERSION>-<MAVEN_VERSION>-<SENCHA_CMD_VERSION>```.
+
 One can pull this image using:
-* version 7-3.6.0-3.0.2
+* OpenJDK 7, Maven 3.6.0, Sencha Cmd 3.0.2:
 
   ```docker pull cvagner/docker-jdk-maven-sencha-cmd:7-3.6.0-3.0.2```
 
